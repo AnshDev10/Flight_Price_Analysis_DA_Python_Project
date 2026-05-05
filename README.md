@@ -156,13 +156,6 @@ The analysis focused on group-based aggregations and comparisons:
 * SpiceJet and Vistara Premium Economy have shorter durations
 
 
-## 📁 Project Structure
-
-flight_price.xlsx
-Flight_Price_Analysis.ipynb
-README.md
-
-
 ## 🧠 Conclusion
 
 This project demonstrates how multiple factors such as airline choice, route, number of stops, and travel timing collectively influence flight ticket pricing. By cleaning and transforming raw data into structured features, it became possible to uncover clear pricing patterns using simple yet effective analytical techniques.
